@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Mitch Corbett
 description: My little slice of the internet
+github:
+  is_project_page: false
