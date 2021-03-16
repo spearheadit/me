@@ -1,5 +1,12 @@
 ---
 ---
 
+$header-bg-color: #009edb !default;
+$header-bg-color-secondary: #1b75bc !default;
+$section-headings-color: #1b75bc !default;
+
 @import "{{ site.theme }}";
 
+.page-header {
+  background-image: none;
+}
